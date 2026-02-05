@@ -1,7 +1,7 @@
 # Business_Solution-AI
 AI business solutions website with an integrated chatbot designed to provide AI business strategy, automation, and consulting guidance only. This chatbot is configured with custom knowledge  so it avoids irrelevant answers and stays focused on AI business solutions
 
-** Live link -- 
+** Live link -- https://github.com/harshitshesh/Business_Solution-AI.git
 
 -- AI Business Solution Chatbot (Botpress Cloud Integration)
 -- AI responses (only AI business solution)
