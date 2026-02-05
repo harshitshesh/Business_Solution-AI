@@ -30,7 +30,7 @@ Knowledge Base Training
 
 📦 Installation (Run Locally)
 1️⃣ Clone Repository
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+git clone --  
 
 2️⃣ Move Into Project Folder
 cd YOUR_REPO_NAME
